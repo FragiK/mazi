@@ -57,11 +57,19 @@ Example 2:
 
 OTE is the Greek telecom Company. 
 - Gather data about it's profitability and financial situation.
-- How many shares does the Greek goverment has in OTE
-- What would be the estimated Revenue from selling these
+- How many shares does the Greek goverment has in OTE.
+- What would be the estimated Revenue from selling these.
 
-Examples 3:
+Example 3:
+> Fiscal structure measures
 > introduce tax on television advertisements;
 
 - Check if television ads are indeed tax free (wow !!! )
 - Somehow estimate the expected revenue 
+
+### To Do
+-  make a greek (and german) version of this
+-  get the relevant files in text form and save them here
+-  make Folders for each chapter
+-  find people who are willing to help
+-  get on with it
