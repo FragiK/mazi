@@ -11,9 +11,9 @@ Any contribution or comment is welcome as long as it is backed with arguments an
 
 Greece has been in a state of [recession and crisis since 2009](https://en.wikipedia.org/wiki/Greek_debt_crisis_timeline) . 
 Negotiations between the Greek goverment and the Troika (aka "the institutions") have failed.
-There will be a [Referendum](https://en.wikipedia.org/wiki/Greek_bailout_referendum,_2015) on on 5 July 2015 
-asking greeks to say yes or no to a proposal of measures to be taken.
-Whatever the outcome of the Referendum will be there will probably be further negotiations.
+There ~~will be~~ was a [Referendum](https://en.wikipedia.org/wiki/Greek_bailout_referendum,_2015) on 5 July 2015 
+asking greeks to say yes or no to a proposal of measures to be taken. The majority of Greeks decided to reject the proposed measures.
+~~Whatever the outcome of the Referendum will be there will probably be further negotiations.~~
 
 The scope of this repo is to modify the oficial proposals so that they have:
 - positive effects on the greek economy.
